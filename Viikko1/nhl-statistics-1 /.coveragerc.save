@@ -1,0 +1,3 @@
+x[run]
+source = src
+omit = src/tests/**,src/index.py
