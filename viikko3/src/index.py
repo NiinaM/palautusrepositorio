@@ -28,5 +28,3 @@ def main():
 
     for player in finnish_players:
         print(player)
-
-main()
